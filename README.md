@@ -7,7 +7,7 @@
 - open the  ``` http://localhost/api/v1/products ``` to see result
 
 ## Test
-- Run the following command to test ``` ./vendor/bin/phpunit ./tests/ ```
+- Run the following command to test ``` ./vendor/bin/sail artisan test ```
 - Go to ``` /tests/ ``` to see test files
 
 ## What's Run
